@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 1rem;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+nav{
+    background-color: rgb(32, 155, 124);
+}
+
+.imgDiagrama{
+    max-height: 125vh;
+}
+
+hr{
+    height: 3px !important;
+    background-color: rgb(32, 155, 124);
+    margin: 2rem 0;
+    opacity: 0.7;
+}
